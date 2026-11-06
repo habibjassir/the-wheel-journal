@@ -2,6 +2,8 @@
 
 Bitácora local para la estrategia de opciones *The Wheel*: put vendido → asignación → call cubierto → called away.
 
+Hecha por [habibjassir](https://github.com/habibjassir).
+
 Calcula el **costo ajustado real** de tus acciones descontando las primas cobradas, y organiza tus operaciones en ciclos que acumulan primas hasta que tú decides cerrarlos.
 
 ## Descargar
@@ -23,6 +25,7 @@ Get-FileHash .\TheWheelJournal_X.Y.Z_x64-setup.exe -Algorithm SHA256
 
 - **Registra cada operación de la rueda:** venta de puts y calls, asignación, vencimiento, called away, roll, cierre anticipado y compra o venta de acciones, con una vista previa antes de guardar.
 - **Calcula por ciclo:** costo ajustado, punto de equilibrio, prima acumulada, ganancia máxima y rendimiento anualizado.
+- **Muestra tu capital** disponible y comprometido, y tus resultados del mes, del año o de todo el historial.
 - **Lleva una bitácora** con calendario, motivo y ánimo de cada operación. Puedes editar o eliminar movimientos.
 - **Permite importar y exportar** tus datos en CSV, con revisión antes de guardar y opción de deshacer.
 - **Tiene tres temas visuales:** Luna de jardín, Anillos y Órbita.
