@@ -24,15 +24,17 @@ Get-FileHash .\TheWheelJournal_X.Y.Z_x64-setup.exe -Algorithm SHA256
 ## Qué hace
 
 - **Registra cada operación de la rueda:** venta de puts y calls, asignación, vencimiento, called away, roll, cierre anticipado y compra o venta de acciones, con una vista previa antes de guardar.
-- **Calcula por ciclo:** costo ajustado, punto de equilibrio, prima acumulada, ganancia máxima y rendimiento anualizado.
+- **Calcula por ciclo:** costo ajustado, punto de equilibrio, prima acumulada, ganancia máxima, rendimiento anualizado y cuánto llevas ganado o perdido.
+- **Consulta precios de mercado:** muestra cómo vas con el precio de hoy, la distancia al strike de cada opción y los dividendos. La pantalla Posiciones reúne tus acciones y contratos con el precio actualizado cada minuto.
 - **Muestra tu capital** disponible y comprometido, y tus resultados del mes, del año o de todo el historial.
-- **Lleva una bitácora** con calendario, motivo y ánimo de cada operación. Puedes editar o eliminar movimientos.
+- **Te avisa de los vencimientos** semana a semana, con el colateral que libera cada una.
+- **Lleva una bitácora** con calendario, motivo, ánimo y etiquetas de cada operación. Puedes editar o eliminar movimientos, incluido un roll completo.
 - **Permite importar y exportar** tus datos en CSV, con revisión antes de guardar y opción de deshacer.
 - **Tiene tres temas visuales:** Luna de jardín, Anillos y Órbita.
 
 ## Tus datos
 
-- **Solo en tu equipo:** viven en `%APPDATA%\app.thewheeljournal`. La app no tiene servidor ni envía nada a internet.
+- **Solo en tu equipo:** viven en `%APPDATA%\app.thewheeljournal`. La app no tiene servidor. Solo se conecta a internet para consultar precios públicos de tus tickers en Yahoo Finance (envía el símbolo, nada más), y se puede apagar en Ajustes.
 - **Copias de respaldo:** se hace una al día al abrir la app (se guardan las 10 más recientes), y también puedes crear y restaurar copias desde Ajustes.
 - **Al desinstalar:** tus datos se conservan.
 
