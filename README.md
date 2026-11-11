@@ -38,6 +38,10 @@ Get-FileHash .\TheWheelJournal_X.Y.Z_x64-setup.exe -Algorithm SHA256
 - **Copias de respaldo:** se hace una al día al abrir la app (se guardan las 10 más recientes), y también puedes crear y restaurar copias desde Ajustes.
 - **Al desinstalar:** tus datos se conservan.
 
+## Privacidad
+
+La app no recopila datos personales. Detalle en [PRIVACIDAD.md](PRIVACIDAD.md).
+
 ## Licencia
 
 Uso gratuito para fines personales, según [LICENSE.md](LICENSE.md). La app **no es asesoría financiera**: los cálculos son orientativos. Las licencias de los componentes de terceros están en `THIRD-PARTY-NOTICES.txt`, que se publica con cada versión y también se puede ver en la app, en Ajustes → Acerca de.
