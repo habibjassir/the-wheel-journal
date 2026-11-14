@@ -1,5 +1,7 @@
 # The Wheel Journal: licencia de uso
 
+*[English version](LICENSE.en.md)*
+
 Copyright © 2026 habibjassir (https://github.com/habibjassir). Todos los derechos reservados.
 
 The Wheel Journal (en adelante, "la app") es software gratuito de código cerrado. Al instalarla o usarla aceptas estos términos. Si no los aceptas, no la instales ni la uses.

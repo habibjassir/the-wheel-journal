@@ -1,5 +1,7 @@
 # The Wheel Journal
 
+*[Read in English](README.en.md)*
+
 Bitácora local para la estrategia de opciones *The Wheel*: put vendido → asignación → call cubierto → called away.
 
 Hecha por [habibjassir](https://github.com/habibjassir).
@@ -44,7 +46,7 @@ La app no recopila datos personales. Detalle en [PRIVACIDAD.md](PRIVACIDAD.md).
 
 ## Licencia
 
-Uso gratuito para fines personales, según [LICENSE.md](LICENSE.md). La app **no es asesoría financiera**: los cálculos son orientativos. Las licencias de los componentes de terceros están en `THIRD-PARTY-NOTICES.txt`, que se publica con cada versión y también se puede ver en la app, en Ajustes → Acerca de.
+Uso gratuito para fines personales, según [LICENSE.md](LICENSE.md) ([LICENSE.en.md](LICENSE.en.md) en inglés). La app **no es asesoría financiera**: los cálculos son orientativos. Las licencias de los componentes de terceros están en `THIRD-PARTY-NOTICES.txt`, que se publica con cada versión y también se puede ver en la app, en Ajustes → Acerca de.
 
 ## Cambios
 
