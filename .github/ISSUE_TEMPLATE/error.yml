@@ -1,0 +1,60 @@
+name: Reportar un error · Report a bug
+description: Algo no funciona o una cifra no cuadra. · Something doesn't work or a figure looks wrong.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Este reporte es público.** No compartas datos de tu cuenta, nombres de broker, montos reales ni capturas con información personal. Usa cifras de ejemplo.
+        **This report is public.** Don't share account details, broker names, real amounts or screenshots with personal information. Use example figures.
+  - type: input
+    id: version
+    attributes:
+      label: Versión · Version
+      description: Ajustes → Acerca de · Settings → About
+      placeholder: "0.4.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: tema
+    attributes:
+      label: Tema · Theme
+      options:
+        - Luna de jardín · Garden Moon
+        - Anillos · Rings
+        - Órbita · Orbit
+    validations:
+      required: false
+  - type: dropdown
+    id: idioma
+    attributes:
+      label: Idioma de la app · App language
+      options:
+        - Español
+        - English
+    validations:
+      required: false
+  - type: textarea
+    id: pasos
+    attributes:
+      label: Pasos para que ocurra · Steps to reproduce
+      description: Qué hiciste, en orden. · What you did, in order.
+      placeholder: |
+        1. Vendí un put de 1 contrato a strike $50 con prima $1.00
+        2. Registré la asignación
+        3. …
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Qué esperabas y qué pasó · What you expected and what happened
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacidad
+    attributes:
+      label: Privacidad · Privacy
+      options:
+        - label: Revisé que este reporte no tenga datos personales ni de mi cuenta. · I checked that this report has no personal or account data.
+          required: true

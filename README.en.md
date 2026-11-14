@@ -37,6 +37,12 @@ Versions up to 0.4.0 were also published as `.exe` and `.msi` installers in [Rel
 
 The app doesn't collect personal data. Details in [PRIVACIDAD.md](PRIVACIDAD.md) (in Spanish).
 
+## Report a bug or suggest an idea
+
+Open an [issue](../../issues/new/choose) with the matching template. What you write there is public: don't share account details, broker names, real amounts or screenshots with personal information.
+
+The Wheel Journal is a personal project: I read every report and reply when I can.
+
 ## License
 
 Free for personal use, under [LICENSE.en.md](LICENSE.en.md) ([LICENSE.md](LICENSE.md) in Spanish). The app **is not financial advice**: the figures are a guide. The licenses of third-party components can be viewed in the app, in Settings → About.

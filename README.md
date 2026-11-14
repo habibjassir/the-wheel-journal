@@ -37,6 +37,12 @@ Las versiones hasta la 0.4.0 también se publicaron como instaladores `.exe` y `
 
 La app no recopila datos personales. Detalle en [PRIVACIDAD.md](PRIVACIDAD.md).
 
+## Reportar un error o sugerir una idea
+
+Abre un [issue](../../issues/new/choose) con la plantilla que corresponda. Lo que escribas ahí es público: no compartas datos de tu cuenta, nombres de broker, montos reales ni capturas con información personal.
+
+The Wheel Journal es un proyecto personal: leo todos los reportes y respondo cuando puedo.
+
 ## Licencia
 
 Uso gratuito para fines personales, según [LICENSE.md](LICENSE.md) ([LICENSE.en.md](LICENSE.en.md) en inglés). La app **no es asesoría financiera**: los cálculos son orientativos. Las licencias de los componentes de terceros se pueden ver en la app, en Ajustes → Acerca de.

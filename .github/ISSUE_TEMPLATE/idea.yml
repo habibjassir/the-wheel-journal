@@ -1,0 +1,22 @@
+name: Sugerir una idea · Suggest an idea
+description: Algo que te ayudaría a seguir tu rueda. · Something that would help you track your wheel.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Esta sugerencia es pública.** No compartas datos de tu cuenta ni montos reales.
+        **This suggestion is public.** Don't share account details or real amounts.
+  - type: textarea
+    id: necesidad
+    attributes:
+      label: Qué necesitas · What you need
+      description: El problema o la pregunta que quieres resolver, más que la solución. · The problem or question you want to solve, more than the solution.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Cómo te imaginas que funcione · How you picture it working
+    validations:
+      required: false
