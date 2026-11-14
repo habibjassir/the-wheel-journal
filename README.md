@@ -29,8 +29,8 @@ Get-FileHash .\TheWheelJournal_X.Y.Z_x64-setup.exe -Algorithm SHA256
 - **Muestra tu capital** disponible y comprometido, y tus resultados del mes, del año o de todo el historial.
 - **Te avisa de los vencimientos** semana a semana, con el colateral que libera cada una.
 - **Lleva una bitácora** con calendario, motivo, ánimo y etiquetas de cada operación. Puedes editar o eliminar movimientos, incluido un roll completo.
-- **Permite importar y exportar** tus datos en CSV, con revisión antes de guardar y opción de deshacer.
-- **Tiene tres temas visuales:** Luna de jardín, Anillos y Órbita.
+- **Permite importar y exportar** tus datos en CSV, con revisión antes de guardar y opción de deshacer. También importa la exportación de actividad de Wealthsimple.
+- **Está en español y en inglés**, y tiene tres temas visuales: Luna de jardín, Anillos y Órbita.
 
 ## Tus datos
 
