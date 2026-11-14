@@ -10,18 +10,11 @@ It calculates the **real adjusted cost** of your shares after the premiums you'v
 
 ## Download
 
-Go to **[Releases](../../releases/latest)** and download the installer for the latest version:
+Install it from the **[Microsoft Store](https://apps.microsoft.com/detail/9NFB586L8CS5)**. It's free, signed by Microsoft and updates itself.
 
-- `TheWheelJournal_X.Y.Z_x64-setup.exe`: **recommended**. Installs for your user only and doesn't ask for administrator rights.
-- `TheWheelJournal_X.Y.Z_x64.msi`: alternative that installs for the whole computer. Asks for administrator rights.
+Requirements: Windows 10 (version 1809 or later) or 11, 64-bit.
 
-Requirements: Windows 10 or 11, 64-bit.
-
-The installers aren't signed, so Windows may show a SmartScreen warning. To continue, choose "More info" → "Run anyway". Every version includes `SHA256SUMS.txt` so you can check the file wasn't altered:
-
-```powershell
-Get-FileHash .\TheWheelJournal_X.Y.Z_x64-setup.exe -Algorithm SHA256
-```
+Versions up to 0.4.0 were also published as `.exe` and `.msi` installers in [Releases](../../releases). They no longer get updates. If you installed one of them, install the Store version: it finds your data on its own. Then uninstall the old one. Just in case, export a CSV (Settings → Data) or save a backup first.
 
 ## What it does
 
@@ -36,9 +29,9 @@ Get-FileHash .\TheWheelJournal_X.Y.Z_x64-setup.exe -Algorithm SHA256
 
 ## Your data
 
-- **Only on your computer:** it lives in `%APPDATA%\app.thewheeljournal`. The app has no server. It only connects to the internet to fetch public prices for your tickers from Yahoo Finance (it sends the symbol, nothing else), and that can be turned off in Settings.
+- **Only on your computer:** the app has no server and no accounts. It only connects to the internet to fetch public prices for your tickers from Yahoo Finance (it sends the symbol, nothing else), and that can be turned off in Settings.
 - **Backups:** one is made each day when you open the app (the 10 most recent are kept), and you can also create and restore backups from Settings.
-- **When you uninstall:** your data is kept.
+- **When you uninstall:** Windows deletes the app's data. If you want to keep it, export a CSV or save a backup first.
 
 ## Privacy
 
@@ -46,7 +39,7 @@ The app doesn't collect personal data. Details in [PRIVACIDAD.md](PRIVACIDAD.md)
 
 ## License
 
-Free for personal use, under [LICENSE.en.md](LICENSE.en.md) ([LICENSE.md](LICENSE.md) in Spanish). The app **is not financial advice**: the figures are a guide. The licenses of third-party components are in `THIRD-PARTY-NOTICES.txt`, which is published with every version and can also be viewed in the app, in Settings → About.
+Free for personal use, under [LICENSE.en.md](LICENSE.en.md) ([LICENSE.md](LICENSE.md) in Spanish). The app **is not financial advice**: the figures are a guide. The licenses of third-party components can be viewed in the app, in Settings → About.
 
 ## Changes
 

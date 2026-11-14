@@ -32,7 +32,7 @@ Para mostrar el precio de tus acciones, la app consulta a **Yahoo Finance** (`qu
 
 Tus datos están en tu equipo y los controlas tú:
 - **Versión de la Microsoft Store:** al desinstalarla, Windows borra sus datos. Si quieres conservarlos, exporta un CSV o guarda una copia antes.
-- **Versión instalada desde GitHub:** los datos quedan en `%APPDATA%\app.thewheeljournal` y puedes borrar esa carpeta.
+- **Versiones hasta la 0.4.0 instaladas desde GitHub:** los datos quedan en `%APPDATA%\app.thewheeljournal` y puedes borrar esa carpeta.
 
 ## Menores de edad
 
