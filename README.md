@@ -14,7 +14,7 @@ Instálala desde la **[Microsoft Store](https://apps.microsoft.com/detail/9NFB58
 
 Requisitos: Windows 10 (versión 1809 o posterior) u 11, de 64 bits.
 
-Las versiones hasta la 0.4.0 también se publicaron como instaladores `.exe` y `.msi` en [Releases](../../releases). Ya no reciben actualizaciones. Si instalaste una de ellas, instala la versión de la Store: encuentra tus datos sola. Después desinstala la anterior. Por si acaso, exporta un CSV (Ajustes → Datos) o guarda una copia de respaldo antes.
+Si instalaste una versión anterior con un instalador `.exe` o `.msi` (hasta la 0.4.0), ya no recibe actualizaciones. Instala la versión de la Store: encuentra tus datos sola. Después desinstala la anterior. Por si acaso, exporta un CSV (Ajustes → Datos) o guarda una copia de respaldo antes.
 
 ## Qué hace
 
@@ -49,4 +49,4 @@ Uso gratuito para fines personales, según [LICENSE.md](LICENSE.md) ([LICENSE.en
 
 ## Cambios
 
-Cada versión en [Releases](../../releases) explica qué cambió.
+Cada versión en [Releases](../../releases) explica qué cambió. Ahí solo van las notas: la app se instala y se actualiza desde la Store.

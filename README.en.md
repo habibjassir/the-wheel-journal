@@ -14,7 +14,7 @@ Install it from the **[Microsoft Store](https://apps.microsoft.com/detail/9NFB58
 
 Requirements: Windows 10 (version 1809 or later) or 11, 64-bit.
 
-Versions up to 0.4.0 were also published as `.exe` and `.msi` installers in [Releases](../../releases). They no longer get updates. If you installed one of them, install the Store version: it finds your data on its own. Then uninstall the old one. Just in case, export a CSV (Settings → Data) or save a backup first.
+If you installed an earlier version with an `.exe` or `.msi` installer (up to 0.4.0), it no longer gets updates. Install the Store version: it finds your data on its own. Then uninstall the old one. Just in case, export a CSV (Settings → Data) or save a backup first.
 
 ## What it does
 
@@ -49,4 +49,4 @@ Free for personal use, under [LICENSE.en.md](LICENSE.en.md) ([LICENSE.md](LICENS
 
 ## Changes
 
-Each version in [Releases](../../releases) explains what changed.
+Each version in [Releases](../../releases) explains what changed. Releases only carry the notes: the app is installed and updated from the Store.
