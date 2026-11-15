@@ -1,6 +1,6 @@
 # The Wheel Journal: política de privacidad
 
-Última actualización: 11 de noviembre de 2026
+Última actualización: 15 de noviembre de 2026
 
 The Wheel Journal (en adelante, "la app") es una bitácora para la estrategia de opciones *The Wheel* que funciona en tu equipo. Esta política explica qué datos maneja y adónde van.
 
@@ -8,7 +8,7 @@ The Wheel Journal (en adelante, "la app") es una bitácora para la estrategia de
 
 - **La app no recopila datos personales.** No tiene cuentas, ni servidor, ni analítica, ni publicidad.
 - **Tus operaciones y notas se guardan solo en tu equipo.**
-- **Única conexión a internet:** consulta precios públicos de los tickers que registras en Yahoo Finance. Se puede apagar.
+- **Única conexión a internet:** consulta en Yahoo Finance precios públicos de los tickers que registras y de tres índices bursátiles (S&P 500, Nasdaq 100 y Dow Jones) para la comparación de Métricas. Solo envía esos símbolos. Se puede apagar.
 
 ## Datos que guardas en la app
 

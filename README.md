@@ -29,7 +29,7 @@ Si instalaste una versión anterior con un instalador `.exe` o `.msi` (hasta la 
 
 ## Tus datos
 
-- **Solo en tu equipo:** la app no tiene servidor ni cuentas. Solo se conecta a internet para consultar precios públicos de tus tickers en Yahoo Finance (envía el símbolo, nada más), y se puede apagar en Ajustes.
+- **Solo en tu equipo:** la app no tiene servidor ni cuentas. Solo se conecta a internet para consultar en Yahoo Finance precios públicos de tus tickers y de tres índices bursátiles (envía los símbolos, nada más), y se puede apagar en Ajustes.
 - **Copias de respaldo:** se hace una al día al abrir la app (se guardan las 10 más recientes), y también puedes crear y restaurar copias desde Ajustes.
 - **Al desinstalar:** Windows borra los datos de la app. Si quieres conservarlos, exporta un CSV o guarda una copia de respaldo antes.
 

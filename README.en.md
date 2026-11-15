@@ -29,7 +29,7 @@ If you installed an earlier version with an `.exe` or `.msi` installer (up to 0.
 
 ## Your data
 
-- **Only on your computer:** the app has no server and no accounts. It only connects to the internet to fetch public prices for your tickers from Yahoo Finance (it sends the symbol, nothing else), and that can be turned off in Settings.
+- **Only on your computer:** the app has no server and no accounts. It only connects to the internet to fetch public prices for your tickers and three stock indices from Yahoo Finance (it sends the symbols, nothing else), and that can be turned off in Settings.
 - **Backups:** one is made each day when you open the app (the 10 most recent are kept), and you can also create and restore backups from Settings.
 - **When you uninstall:** Windows deletes the app's data. If you want to keep it, export a CSV or save a backup first.
 
